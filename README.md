@@ -17,12 +17,12 @@ git clone https://github.com/eng-psycho/HTM.git
 cd HTM
 ```
 ```
-Python3 HTM.py
+Python3 run.py
 ```
 
 
 ## Test :
-![Picutre](https://github.com/eng-psycho/)
+![Picutre](https://raw.githubusercontent.com/eng-psycho/HTM/main/test.png)
 
 
 ## Conntact With Me
